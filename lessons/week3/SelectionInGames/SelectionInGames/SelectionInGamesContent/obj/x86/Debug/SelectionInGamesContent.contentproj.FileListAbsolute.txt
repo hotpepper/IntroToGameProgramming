@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGamesContent\obj\x86\Debug\SelectionInGamesContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGamesContent\obj\x86\Debug\SelectionInGamesContent.contentprojResolveAssemblyReference.cache

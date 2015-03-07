@@ -1,0 +1,40 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character2.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character3.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character2.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character3.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character2.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character3.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character0.xnb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character1.xnb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character2.xnb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\Content\character3.xnb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\bin\x86\Debug\XnaMouseInput.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb

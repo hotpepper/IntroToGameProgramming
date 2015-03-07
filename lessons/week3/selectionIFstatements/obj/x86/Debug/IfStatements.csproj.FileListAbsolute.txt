@@ -1,0 +1,4 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\bin\Debug\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\bin\Debug\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\obj\x86\Debug\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\obj\x86\Debug\IfStatements.pdb

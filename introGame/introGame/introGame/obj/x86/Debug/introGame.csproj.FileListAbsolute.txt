@@ -1,0 +1,6 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\bin\x86\Debug\introGame.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\bin\x86\Debug\introGame.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\obj\x86\Debug\introGame.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\introGame\introGame\introGame\obj\x86\Debug\introGame.pdb

@@ -1,0 +1,11 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\11 Using a Class Constructor and Properties\UsingDeckClass\bin\Release\UsingDeckClass.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\11 Using a Class Constructor and Properties\UsingDeckClass\bin\Release\UsingDeckClass.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\11 Using a Class Constructor and Properties\UsingDeckClass\obj\x86\Release\UsingDeckClass.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\11 Using a Class Constructor and Properties\UsingDeckClass\obj\x86\Release\UsingDeckClass.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\12 Using a Class Methods\UsingDeckClass\obj\x86\Release\UsingDeckClass.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\12 Using a Class Methods\UsingDeckClass\obj\x86\Release\UsingDeckClass.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\12 Using a Class Methods\UsingDeckClass\bin\Release\UsingDeckClass.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\12 Using a Class Methods\UsingDeckClass\bin\Release\UsingDeckClass.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 4 Classes and Objects\12 Using a Class Methods\UsingDeckClass\obj\x86\Release\UsingDeckClass.csprojResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\Deck\obj\x86\Release\UsingDeckClass.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\Deck\obj\x86\Release\UsingDeckClass.pdb

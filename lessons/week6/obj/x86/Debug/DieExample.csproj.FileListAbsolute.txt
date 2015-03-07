@@ -1,0 +1,5 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\bin\Debug\DieExample.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\bin\Debug\DieExample.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Debug\DieExample.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Debug\DieExample.pdb

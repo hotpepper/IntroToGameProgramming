@@ -1,0 +1,12 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\WhileLoops\bin\Release\WhileLoops.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\WhileLoops\bin\Release\WhileLoops.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\WhileLoops\obj\x86\Release\WhileLoops.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\WhileLoops\obj\x86\Release\WhileLoops.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\WhileLoops\obj\x86\Release\WhileLoops.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\Start Code\VisualStudioStartCode\obj\x86\Release\WhileLoops.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\33 While Loops\Code\Start Code\VisualStudioStartCode\obj\x86\Release\WhileLoops.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Release\WhileLoops.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Release\WhileLoops.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\bin\Release\WhileLoops.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\bin\Release\WhileLoops.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\30 For Loops The Basics\Code\LoopyTeddies\LoopyTeddiesContent\obj\x86\Debug\LoopyTeddiesContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\31 For Loops Dead Teddies\Code\LoopyTeddies\LoopyTeddiesContent\obj\x86\Debug\LoopyTeddiesContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\32 Foreach Loops\Code\LoopyTeddies\LoopyTeddiesContent\obj\x86\Debug\LoopyTeddiesContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 10 Iteration\32 Foreach Loops\Code\Start Code\VisualStudioStartCode\LoopyTeddies\LoopyTeddiesContent\obj\x86\Debug\LoopyTeddiesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\LoopyTeddies\LoopyTeddiesContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\bin\Release\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\bin\Release\StringOperations.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\obj\x86\Release\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\obj\x86\Release\StringOperations.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\StringOperations\obj\x86\Release\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\StringOperations\obj\x86\Release\StringOperations.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\VisualStudioStartCode\StringOperations\obj\x86\Release\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\VisualStudioStartCode\StringOperations\obj\x86\Release\StringOperations.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\VisualStudioStartCode\StringOperations\bin\Release\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\Start Code\VisualStudioStartCode\StringOperations\bin\Release\StringOperations.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Release\StringOperations.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Release\StringOperations.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\bin\Release\StringOperations.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\bin\Release\StringOperations.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Release\ResolveAssemblyReference.cache

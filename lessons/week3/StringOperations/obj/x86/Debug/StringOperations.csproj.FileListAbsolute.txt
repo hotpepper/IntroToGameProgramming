@@ -1,0 +1,9 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\bin\Debug\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\bin\Debug\StringOperations.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\obj\x86\Debug\StringOperations.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\19 String Operations\Code\StringOperations\obj\x86\Debug\StringOperations.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\bin\Debug\StringOperations.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\bin\Debug\StringOperations.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Debug\StringOperations.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\StringOperations\obj\x86\Debug\StringOperations.pdb

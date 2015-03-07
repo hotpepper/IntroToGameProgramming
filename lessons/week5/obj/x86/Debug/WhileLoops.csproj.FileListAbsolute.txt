@@ -1,0 +1,5 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\bin\Debug\WhileLoops.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\bin\Debug\WhileLoops.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Debug\WhileLoops.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week5\obj\x86\Debug\WhileLoops.pdb

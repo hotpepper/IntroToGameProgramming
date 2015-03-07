@@ -1,0 +1,5 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\IntegerDatatype\bin\Debug\IntegerDatatype.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\IntegerDatatype\bin\Debug\IntegerDatatype.pdb
+C:\Users\Seth\AppData\Local\Temporary Projects\IntegerDatatype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\AppData\Local\Temporary Projects\IntegerDatatype\obj\x86\Debug\IntegerDatatype.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\IntegerDatatype\obj\x86\Debug\IntegerDatatype.pdb

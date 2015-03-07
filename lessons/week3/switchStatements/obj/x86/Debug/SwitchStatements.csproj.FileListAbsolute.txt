@@ -1,0 +1,4 @@
+C:\Users\Dr. T\AppData\Local\Temporary Projects\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\Dr. T\AppData\Local\Temporary Projects\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\Dr. T\AppData\Local\Temporary Projects\SwitchStatements\obj\x86\Debug\SwitchStatements.exe
+C:\Users\Dr. T\AppData\Local\Temporary Projects\SwitchStatements\obj\x86\Debug\SwitchStatements.pdb

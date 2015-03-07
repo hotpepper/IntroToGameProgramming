@@ -1,0 +1,16 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\17 Intro to Strings\IntroToStrings\IntroToStrings\bin\Release\IntroToStrings.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\17 Intro to Strings\IntroToStrings\IntroToStrings\bin\Release\IntroToStrings.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\17 Intro to Strings\IntroToStrings\IntroToStrings\obj\x86\Release\IntroToStrings.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\17 Intro to Strings\IntroToStrings\IntroToStrings\obj\x86\Release\IntroToStrings.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\IntroToStrings\obj\x86\Release\IntroToStrings.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\IntroToStrings\obj\x86\Release\IntroToStrings.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\IntroToStrings\bin\Release\IntroToStrings.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\IntroToStrings\bin\Release\IntroToStrings.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\IntroToStrings\obj\x86\Release\IntroToStrings.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\Start Code\VisualStudioStartCode\IntroToStrings\obj\x86\Release\IntroToStrings.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 6 Strings\18 Intro to Strings\Code\Start Code\VisualStudioStartCode\IntroToStrings\obj\x86\Release\IntroToStrings.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\IntroToStrings\obj\x86\Release\IntroToStrings.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\IntroToStrings\obj\x86\Release\IntroToStrings.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\IntroToStrings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\IntroToStrings\bin\Release\IntroToStrings.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\IntroToStrings\bin\Release\IntroToStrings.pdb

@@ -1,0 +1,17 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\bin\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\bin\Release\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\obj\x86\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\IfStatements\obj\x86\Release\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\obj\x86\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\obj\x86\Release\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\bin\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\bin\Release\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\Start Code\VisualStudioStartCode\obj\x86\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\Start Code\VisualStudioStartCode\obj\x86\Release\IfStatements.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\Start Code\VisualStudioStartCode\bin\Release\IfStatements.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\20 Selection If Statements\Code\Start Code\VisualStudioStartCode\bin\Release\IfStatements.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\selectionIFstatements\obj\x86\Release\IfStatements.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\selectionIFstatements\obj\x86\Release\IfStatements.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\selectionIFstatements\bin\Release\IfStatements.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\selectionIFstatements\bin\Release\IfStatements.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week3\selectionIFstatements\obj\x86\Release\ResolveAssemblyReference.cache

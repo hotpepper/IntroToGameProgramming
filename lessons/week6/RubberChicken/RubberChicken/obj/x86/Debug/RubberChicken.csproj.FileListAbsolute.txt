@@ -1,0 +1,7 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\bin\x86\Debug\RubberChicken.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\bin\x86\Debug\RubberChicken.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\obj\x86\Debug\RubberChicken.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\obj\x86\Debug\RubberChicken.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\RubberChicken\RubberChicken\bin\x86\Debug\Content\RubberChcickenIMG.xnb

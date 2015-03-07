@@ -1,0 +1,5 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\Assignments\ProgrammingAssingment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\Debug\ProgrammingAssignment5.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\Assignments\ProgrammingAssingment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\Debug\ProgrammingAssignment5.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\Assignments\ProgrammingAssingment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\Assignments\ProgrammingAssingment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\Assignments\ProgrammingAssingment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.pdb

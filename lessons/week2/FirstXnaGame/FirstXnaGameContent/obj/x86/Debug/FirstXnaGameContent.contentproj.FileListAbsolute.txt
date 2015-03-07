@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGameContent\obj\x86\Debug\FirstXnaGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week2\FirstXnaGame\FirstXnaGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

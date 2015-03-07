@@ -1,0 +1,4 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\23 XNA Mouse Input\Code\XnaMouseInput\XnaMouseInputContent\obj\x86\Debug\XnaMouseInputContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\24 XNA Mouse Button Processing\Code\XnaMouseInput\XnaMouseInputContent\obj\x86\Debug\XnaMouseInputContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 9 Arrays and Collection Classes\28 Arrays\Code\Final\VisualStudioXnaMouseInput\XnaMouseInput\XnaMouseInputContent\obj\x86\Debug\XnaMouseInputContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week4\XnaMouseInput\XnaMouseInputContent\obj\x86\Debug\ResolveAssemblyReference.cache

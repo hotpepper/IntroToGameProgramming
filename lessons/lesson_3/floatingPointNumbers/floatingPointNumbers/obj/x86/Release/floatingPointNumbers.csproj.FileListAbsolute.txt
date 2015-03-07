@@ -1,0 +1,5 @@
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\floatingPointNumbers\floatingPointNumbers\bin\Release\floatingPointNumbers.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\floatingPointNumbers\floatingPointNumbers\bin\Release\floatingPointNumbers.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\floatingPointNumbers\floatingPointNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\floatingPointNumbers\floatingPointNumbers\obj\x86\Release\floatingPointNumbers.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\floatingPointNumbers\floatingPointNumbers\obj\x86\Release\floatingPointNumbers.pdb

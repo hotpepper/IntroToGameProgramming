@@ -1,0 +1,7 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\FirstCshapProgram\bin\Release\FirstCshapProgram.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\FirstCshapProgram\bin\Release\FirstCshapProgram.pdb
+C:\Users\Seth\AppData\Local\Temporary Projects\FirstCshapProgram\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Seth\AppData\Local\Temporary Projects\FirstCshapProgram\obj\x86\Release\FirstCshapProgram.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\FirstCshapProgram\obj\x86\Release\FirstCshapProgram.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\FirstCshapProgram\FirstCshapProgram\obj\x86\Release\FirstCshapProgram.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\lesson_3\FirstCshapProgram\FirstCshapProgram\obj\x86\Release\FirstCshapProgram.pdb

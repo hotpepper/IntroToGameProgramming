@@ -1,0 +1,18 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\explosion.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\bin\x86\Debug\SelectionInGames.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\bin\x86\Debug\SelectionInGames.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\explosion.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\SelectionInGames.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\SelectionInGames.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\obj\x86\Debug\SelectionInGames.pdb

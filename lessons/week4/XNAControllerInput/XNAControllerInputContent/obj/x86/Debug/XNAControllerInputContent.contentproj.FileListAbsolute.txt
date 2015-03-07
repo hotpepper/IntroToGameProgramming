@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\25 XNA Controller Thumbstick Processing\Code\XNAControllerInput\XNAControllerInputContent\obj\x86\Debug\XNAControllerInputContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 8 XNA Mice and Controllers\26 XNA Controller Button Processing\Code\XNAControllerInput\XNAControllerInputContent\obj\x86\Debug\XNAControllerInputContent.contentprojResolveAssemblyReference.cache

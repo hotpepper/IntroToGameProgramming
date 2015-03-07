@@ -1,0 +1,9 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\34 Console Class Design Fields and Properties\Code\Final Code\VisualStudioDieExample\DieExample\bin\Release\DieExample.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\34 Console Class Design Fields and Properties\Code\Final Code\VisualStudioDieExample\DieExample\bin\Release\DieExample.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\34 Console Class Design Fields and Properties\Code\Final Code\VisualStudioDieExample\DieExample\obj\x86\Release\DieExample.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 11 Class Design and Implementation\34 Console Class Design Fields and Properties\Code\Final Code\VisualStudioDieExample\DieExample\obj\x86\Release\DieExample.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Release\DieExample.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Release\DieExample.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\bin\Release\DieExample.exe
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\bin\Release\DieExample.pdb
+C:\Users\Seth\Desktop\coresera\GameProgramingCsharp\lessons\week6\obj\x86\Release\ResolveAssemblyReference.cache

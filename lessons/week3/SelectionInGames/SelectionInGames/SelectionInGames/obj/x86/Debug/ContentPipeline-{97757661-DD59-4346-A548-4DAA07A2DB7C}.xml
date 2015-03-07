@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-08-16T05:50:03.8310244-06:00</Time>
+    </Item>
+    <Item>
+      <Source>teddybear0.png</Source>
+      <Name>teddybear0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear0.xnb</Output>
+      <Time>2013-08-16T06:00:55.3325439-06:00</Time>
+    </Item>
+    <Item>
+      <Source>teddybear1.png</Source>
+      <Name>teddybear1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\teddybear1.xnb</Output>
+      <Time>2013-08-16T06:01:26.9537994-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{97757661-DD59-4346-A548-4DAA07A2DB7C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGamesContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 7 Selection\22 Selection in Games\Code\Start Code\VisualStudioStartCode\SelectionInGames\SelectionInGames\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-15T15:22:17.2983302-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
